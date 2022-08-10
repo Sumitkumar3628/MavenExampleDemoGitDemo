@@ -8,6 +8,7 @@ public class TestCalculator {
 		
 		int sum = c.addNos(1000, 20000);
 		System.out.println(sum);
+		System.out.println("done");
 		
 	}
 }

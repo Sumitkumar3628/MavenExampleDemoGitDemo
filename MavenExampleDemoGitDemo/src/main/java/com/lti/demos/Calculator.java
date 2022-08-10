@@ -21,6 +21,7 @@ public class Calculator {
 			throw new ArithmeticException("You entered zero");
 		}else {
 			System.out.println("Do something");
+			System.out.println("for git doing changes writing this");
 		}
 	}
 }
